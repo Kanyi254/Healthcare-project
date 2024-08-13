@@ -1,0 +1,17 @@
+The dataset consists of 55,500 entries with 15 columns. Here's an overview of the columns:
+
+Name: Patient's name.
+Age: Patient's age.
+Gender: Patient's gender.
+Blood Type: Patient's blood type.
+Medical Condition: The medical condition diagnosed.
+Date of Admission: Date when the patient was admitted.
+Doctor: The attending doctor.
+Hospital: The hospital where the patient was treated.
+Insurance Provider: The patient's insurance provider.
+Billing Amount: The amount billed for the patient's treatment.
+Room Number: The room number where the patient was accommodated.
+Admission Type: Type of admission (e.g., urgent, emergency, elective).
+Discharge Date: Date when the patient was discharged.
+Medication: Medication prescribed.
+Test Results: Results of any tests conducted (e.g., normal, abnormal).
